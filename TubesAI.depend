@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1658238032 source:c:\users\sucia\documents\kuliah\semester 4\kecerdasan buatan\tubes\tubesai\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
