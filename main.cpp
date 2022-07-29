@@ -177,7 +177,7 @@ int main()
                 else if(command=="open google")
                 {
                     system("cls");
-                    cout<<"openining google"<<endl;
+                    cout<<"opening google"<<endl;
                     string phrase = "opening google";
                     string command = "espeak \"" + phrase + "\"";
                     const char *charCommand = command.c_str();
@@ -188,7 +188,7 @@ int main()
                 else if(command=="open youtube")
                 {
                     system("cls");
-                    cout<<"openining YouTube"<<endl;
+                    cout<<"opening YouTube"<<endl;
                     string phrase = "opening youtube";
                     string command = "espeak \"" + phrase + "\"";
                     const char *charCommand = command.c_str();
